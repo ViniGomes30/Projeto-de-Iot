@@ -11,6 +11,8 @@
 ## Link do Vídeo
 
 
+## Link do Artigo do Projeto
+https://docs.google.com/document/d/1HQKtHN72CtHaNvR1a_5E-f9LxjKznq807X5FiDnqqSU/edit?usp=sharing
 
 ## Visão Geral
 
