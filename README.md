@@ -19,3 +19,11 @@ Os dispositivos coletam dados em tempo real e enviam informações através do p
 
 O objetivo é incentivar o uso consciente de energia, reduzir desperdícios e promover hábitos mais sustentáveis, alinhando-se ao ODS 7 – Energia Limpa e Acessível.
 O sistema também possibilita a análise de padrões de consumo, geração de alertas e exibição dos dados em dashboards interativos.
+
+
+
+Simuladores
+
+
+https://wokwi.com/projects/446542597190047745
+https://wokwi.com/projects/446542708763784193
