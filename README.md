@@ -9,6 +9,7 @@
 ---
 
 ## Link do Vídeo
+https://youtu.be/cs6IxYoTQsk
 
 
 ## Link do Artigo do Projeto
@@ -30,3 +31,7 @@ O ESP32 realiza a leitura de corrente por meio do sensor SCT-013-030 e envia os 
 - **InfluxDB 2.x**  
 - **Grafana**  
 - **API CallMeBot** (WhatsApp)
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c774cbc2-0ca9-4761-b031-63ed8a71e241" />
+
