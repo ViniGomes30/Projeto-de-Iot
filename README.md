@@ -1,30 +1,30 @@
-# Projeto-de-Iot
+# Projeto IoT: Monitoramento Energético
 
-Projeto Monitoramento Residencial de Consumo de Energia com aplicação de IoT
+**Participantes**  
+- Diego Estevão Lopes de Queiroz  
+- Erik Salomão Almeida  
+- Iago Leite Chain   
+- Vinicius Gutierrez Gomes
 
-# Integrantes do Grupo
+---
 
-**Diego Estevão Lopes de Queiroz**
-
-**Erik Salomão Almeida**
-
-**Iago Leite Chain**
-
-**Vinícius Gutierrez Gomes**
-
-# Resumo do Projeto
-
-Este projeto consiste no desenvolvimento de um sistema de monitoramento de consumo de energia elétrica utilizando sensores e tecnologias IoT.
-Os dispositivos coletam dados em tempo real e enviam informações através do protocolo MQTT, permitindo acompanhar o consumo energético de residências ou empresas de forma eficiente.
-
-O objetivo é incentivar o uso consciente de energia, reduzir desperdícios e promover hábitos mais sustentáveis, alinhando-se ao ODS 7 – Energia Limpa e Acessível.
-O sistema também possibilita a análise de padrões de consumo, geração de alertas e exibição dos dados em dashboards interativos.
+## Link do Vídeo
 
 
 
-# Simuladores
+## Visão Geral
 
+Este projeto implementa um sistema de monitoramento de consumo de energia elétrica utilizando tecnologias de IoT.
 
-https://wokwi.com/projects/446542597190047745
+O ESP32 realiza a leitura de corrente por meio do sensor SCT-013-030 e envia os dados via MQTT para o Node-RED, que processa as informações e as armazena no InfluxDB. Os dados são visualizados em tempo real através de dashboards no Grafana e, quando há consumo elevado, o sistema envia alertas automáticos via WhatsApp usando a API CallMeBot. O projeto busca promover o uso consciente de energia, alinhado aos objetivos de sustentabilidade, com foco na eficiência energética e na redução do desperdício.
 
-https://wokwi.com/projects/446542708763784193
+---
+
+## Tecnologias Utilizadas
+
+- **ESP32** (C++ / Arduino)  
+- **MQTT** (Mosquitto ou outro broker compatível)  
+- **Node-RED** (JavaScript / JSON para fluxos)  
+- **InfluxDB 2.x**  
+- **Grafana**  
+- **API CallMeBot** (WhatsApp)
