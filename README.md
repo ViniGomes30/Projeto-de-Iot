@@ -22,8 +22,9 @@ O sistema também possibilita a análise de padrões de consumo, geração de al
 
 
 
-Simuladores
+# Simuladores
 
 
 https://wokwi.com/projects/446542597190047745
+
 https://wokwi.com/projects/446542708763784193
