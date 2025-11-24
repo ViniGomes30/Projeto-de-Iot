@@ -22,7 +22,7 @@ O ESP32 realiza a leitura de corrente por meio do sensor SCT-013-030 e envia os 
 
 ## Tecnologias Utilizadas
 
-- **ESP32** (C++ / Arduino)  
+- **2 ESP32** (C++ / Arduino)  
 - **MQTT** (Mosquitto ou outro broker compatível)  
 - **Node-RED** (JavaScript / JSON para fluxos)  
 - **InfluxDB 2.x**  
